@@ -10,6 +10,8 @@ To perform descriptive analysis on a coffee sales dataset using SQL and derive a
 
 - # Dataset Used
 -<a href="https://github.com/Haseena200/Coffee-Sales-Analysis/blob/main/sql-proj1.sql">Dataset
+- [Dataset](https://github.com/Haseena200/Coffee-Sales-Analysis/blob/main/sql-proj1.sql)
+
 
 ## Questions 
 - What is the total revenue and total profit of the coffee business?
