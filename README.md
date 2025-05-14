@@ -1,15 +1,14 @@
 # Coffee-Sales-Analysis
 This MySQL project analyzes coffee sales data to understand product performance, sales by state, and profit vs target profit. It uses SQL queries to extract insights and support business decisions.
 
-# Coffee-Sales-Analysis
+## Coffee-Sales-Analysis
 ##  Project Objective
 The goal of this project is to analyze sales data from a coffee business to extract insights about performance across different products, states, and time periods. The analysis helps identify top-performing products, evaluate marketing effectiveness, and measure actual performance against targets.
 
 Project Aim:
 To perform descriptive analysis on a coffee sales dataset using SQL and derive actionable business insights to support strategic decision-making.
 
-- # Dataset Used
--<a href="https://github.com/Haseena200/Coffee-Sales-Analysis/blob/main/sql-proj1.sql">Dataset
+## Dataset Used
 - [Dataset](https://github.com/Haseena200/Coffee-Sales-Analysis/blob/main/sql-proj1.sql)
 
 
